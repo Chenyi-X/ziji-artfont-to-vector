@@ -1,0 +1,21 @@
+# 艺术字转矢量图 Demo —— 运行依赖
+# 安装：pip install -r requirements.txt
+# 说明：vtracer 提供预编译 wheel，Windows / macOS / Linux 均可直接安装
+
+numpy>=1.26
+opencv-python>=4.9            # 预处理、轮廓提取、连通域与形态学
+pillow>=10.2                  # 对比图渲染与字体绘制
+scipy>=1.11
+shapely>=2.0
+
+fastapi>=0.110                # Web 服务
+uvicorn>=0.29
+python-multipart>=0.0.9       # 文件上传
+
+vtracer>=0.6.11               # 备用矢量化引擎（复杂多色 / 柔和过渡）
+svglib>=1.5.1                 # SVG -> PDF
+reportlab>=4.0                # PDF 原生路径与渐变
+PyMuPDF>=1.24                # 候选轮廓的独立 PDF 回渲约束
+
+lxml>=5.0
+defusedxml>=0.7              # 第三方 SVG 的安全结构解析

@@ -1,0 +1,202 @@
+[
+  {
+    "file": "01_hei_solid.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\01_hei_solid.png",
+    "style": "无衬线单色",
+    "desc": "黑体四字，纯白底黑字",
+    "text": "矢量艺术",
+    "glyphs": 4
+  },
+  {
+    "file": "02_song_serif.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\02_song_serif.png",
+    "style": "衬线单色",
+    "desc": "宋体衬线，衬线细节完整",
+    "text": "宋韵品牌",
+    "glyphs": 4
+  },
+  {
+    "file": "03_kai.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\03_kai.png",
+    "style": "楷体",
+    "desc": "楷体笔画起收笔特征",
+    "text": "品茗听雨",
+    "glyphs": 4
+  },
+  {
+    "file": "04_xingkai.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\04_xingkai.png",
+    "style": "书法行楷",
+    "desc": "华文行楷，连笔走势",
+    "text": "墨韵",
+    "glyphs": 2
+  },
+  {
+    "file": "05_lishu.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\05_lishu.png",
+    "style": "隶书",
+    "desc": "隶书蚕头燕尾",
+    "text": "长安古意",
+    "glyphs": 4
+  },
+  {
+    "file": "06_youyuan.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\06_youyuan.png",
+    "style": "圆体",
+    "desc": "幼圆粗笔画圆角",
+    "text": "开心小熊",
+    "glyphs": 4
+  },
+  {
+    "file": "07_shuti_hand.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\07_shuti_hand.png",
+    "style": "手写体",
+    "desc": "方正舒体手写笔画",
+    "text": "手写便签",
+    "glyphs": 4
+  },
+  {
+    "file": "08_thin_line.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\08_thin_line.png",
+    "style": "细笔画",
+    "desc": "细笔画对小容差拟合的要求",
+    "text": "细线轻语",
+    "glyphs": 4
+  },
+  {
+    "file": "09_stroke.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\09_stroke.png",
+    "style": "描边字",
+    "desc": "深色外描边 + 亮黄字身",
+    "text": "描边标题",
+    "glyphs": 4
+  },
+  {
+    "file": "10_gradient.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\10_gradient.png",
+    "style": "渐变字",
+    "desc": "橙蓝线性渐变填充",
+    "text": "渐变光影",
+    "glyphs": 4
+  },
+  {
+    "file": "11_3d.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\11_3d.png",
+    "style": "立体字",
+    "desc": "右下立体挤出 + 面色覆盖",
+    "text": "立体时代",
+    "glyphs": 4
+  },
+  {
+    "file": "12_shadow.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\12_shadow.png",
+    "style": "阴影字",
+    "desc": "柔边阴影 + 主体",
+    "text": "投影层次",
+    "glyphs": 4
+  },
+  {
+    "file": "13_cartoon.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\13_cartoon.png",
+    "style": "卡通多彩",
+    "desc": "四色卡通字 + 装饰点",
+    "text": "卡通乐园",
+    "glyphs": 4
+  },
+  {
+    "file": "14_brush_feibai.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\14_brush_feibai.png",
+    "style": "书法毛笔",
+    "desc": "带飞白笔触的单字",
+    "text": "書",
+    "glyphs": 1
+  },
+  {
+    "file": "15_lianbi.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\15_lianbi.png",
+    "style": "手写连笔",
+    "desc": "连笔走势与笔锋",
+    "text": "写意人生",
+    "glyphs": 4
+  },
+  {
+    "file": "16_gradient_stroke.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\16_gradient_stroke.png",
+    "style": "渐变描边",
+    "desc": "青紫渐变 + 描边",
+    "text": "赛博霓虹",
+    "glyphs": 4
+  },
+  {
+    "file": "17_inverse.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\17_inverse.png",
+    "style": "反白字",
+    "desc": "深底亮字，背景扣除测试",
+    "text": "暗夜模式",
+    "glyphs": 4
+  },
+  {
+    "file": "18_transparent.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\18_transparent.png",
+    "style": "透明背景",
+    "desc": "带 alpha 通道的透明底素材",
+    "text": "透明底",
+    "glyphs": 3
+  },
+  {
+    "file": "19_multiline.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\19_multiline.png",
+    "style": "多行标题",
+    "desc": "两行标题字，行距紧",
+    "text": "新品发布/限时登场",
+    "glyphs": 8
+  },
+  {
+    "file": "20_metal.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\20_metal.png",
+    "style": "金属渐变",
+    "desc": "多段金属渐变",
+    "text": "黄金时代",
+    "glyphs": 4
+  },
+  {
+    "file": "21_neon.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\21_neon.png",
+    "style": "霓虹发光",
+    "desc": "发光晕 + 亮芯",
+    "text": "夜行",
+    "glyphs": 2
+  },
+  {
+    "file": "23_holes_dense.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\23_holes_dense.png",
+    "style": "内孔密集",
+    "desc": "验字与回形内孔必须保持镂空",
+    "text": "日回品国目",
+    "glyphs": 5
+  },
+  {
+    "file": "22_busy_bg.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\22_busy_bg.png",
+    "style": "复杂背景",
+    "desc": "纹理背景压力测试，用于边界提示验证",
+    "text": "复杂底",
+    "glyphs": 3
+  },
+  {
+    "file": "24_standard_53.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\24_standard_53.png",
+    "style": "标准渐变描边（5.3）",
+    "desc": "1000×1000 白底，深描边 + 紫粉渐变字身",
+    "text": "标准案例",
+    "glyphs": 4
+  },
+  {
+    "file": "25_radial.png",
+    "path": "D:\\cy\\艺术字转矢量图\\demo\\samples\\images\\25_radial.png",
+    "style": "径向渐变",
+    "desc": "中心亮黄到外缘橙红的径向渐变填充",
+    "text": "中心发光",
+    "glyphs": 4
+  }
+]
